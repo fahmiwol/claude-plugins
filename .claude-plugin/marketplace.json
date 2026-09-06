@@ -1,0 +1,19 @@
+{
+  "name": "fahmiwol",
+  "owner": {
+    "name": "Fahmi Ghani",
+    "email": "fahmiwol@gmail.com",
+    "url": "https://github.com/fahmiwol"
+  },
+  "metadata": {
+    "description": "Small, verifiable tools for shipping things: check what you released is what people actually receive.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "ship-check",
+      "source": "./plugins/ship-check",
+      "description": "Verify a deploy actually landed and the page actually renders. Catches the 200 that shows nothing, broken links, staging that never updated, and the bugs that only appear from a clean install."
+    }
+  ]
+}

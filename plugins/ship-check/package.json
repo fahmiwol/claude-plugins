@@ -1,0 +1,11 @@
+{
+  "name": "ship-check-plugin",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dependencies for the deploy-check MCP server bundled with the Ship Check plugin.",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.30.0",
+    "zod": "^4.0.0"
+  }
+}

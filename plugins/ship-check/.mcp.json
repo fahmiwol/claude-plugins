@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "deploy-check": {
+      "command": "node",
+      "args": ["${CLAUDE_PLUGIN_ROOT}/servers/deploy-check/src/server.js"]
+    }
+  }
+}
