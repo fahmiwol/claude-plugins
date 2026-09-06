@@ -14,6 +14,11 @@
       "name": "ship-check",
       "source": "./plugins/ship-check",
       "description": "Verify a deploy actually landed and the page actually renders. Catches the 200 that shows nothing, broken links, staging that never updated, and the bugs that only appear from a clean install."
+    },
+    {
+      "name": "agent-craft",
+      "source": "./plugins/agent-craft",
+      "description": "Four methods for building AI agent systems that hold up: make a small model behave like a big one, gate every change through eight checks, borrow a consumer GPU from a CPU server, and hand a large repo to the next agent without losing the map."
     }
   ]
 }

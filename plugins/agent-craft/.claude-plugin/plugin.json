@@ -1,0 +1,14 @@
+{
+  "name": "agent-craft",
+  "version": "1.0.0",
+  "description": "Four methods for building AI agent systems that hold up: make a small model behave like a big one, gate every change through eight checks, borrow a consumer GPU from a CPU server, and hand a large repo to the next agent without losing the map.",
+  "author": {
+    "name": "Fahmi Ghani",
+    "email": "fahmiwol@gmail.com",
+    "url": "https://github.com/fahmiwol"
+  },
+  "homepage": "https://github.com/fahmiwol/claude-plugins",
+  "repository": "https://github.com/fahmiwol/claude-plugins",
+  "license": "MIT",
+  "keywords": ["ai-agents", "llm", "methodology", "small-models", "gpu", "handoff", "quality"]
+}
