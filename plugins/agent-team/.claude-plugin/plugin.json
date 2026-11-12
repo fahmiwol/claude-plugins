@@ -1,0 +1,23 @@
+{
+  "name": "agent-team",
+  "version": "1.0.0",
+  "description": "Run work through a full team of AI agent roles: researcher, designer, builder, reviewers, QC, validator, verifier, evaluator, writer. Includes the team method and a feature-mapping method to use before redesigning an existing web app.",
+  "author": {
+    "name": "Fahmi Ghani",
+    "email": "fahmiwol@gmail.com",
+    "url": "https://github.com/fahmiwol"
+  },
+  "homepage": "https://github.com/fahmiwol/claude-plugins",
+  "repository": "https://github.com/fahmiwol/claude-plugins",
+  "license": "MIT",
+  "keywords": [
+    "ai-agents",
+    "subagents",
+    "multi-agent",
+    "code-review",
+    "qa",
+    "workflow",
+    "methodology",
+    "redesign"
+  ]
+}

@@ -24,6 +24,11 @@
       "name": "open-findings",
       "source": "./plugins/open-findings",
       "description": "Turn experiments, research notes and agent work into open, citable knowledge for search and AI answer engines, without leaking private material and with the author approving every piece. Two skills and a zero-dependency publication scanner."
+    },
+    {
+      "name": "agent-team",
+      "source": "./plugins/agent-team",
+      "description": "Run work through a full team of AI agent roles: researcher, designer, builder, reviewers, QC, validator, verifier, evaluator, writer. Plus a method to map every page's features before redesigning an existing web app."
     }
   ]
 }
